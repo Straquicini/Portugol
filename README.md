@@ -9,4 +9,6 @@ Exercicio7: Algoritimo para dizer qual o maior e o menor número dentre três n�
 Exercicio8: Algoritimo para falar fazer a tabuada usando "faça" (faça enquanto)
 Exercicio9: Fluxograma para fazer a tabuada usando o "enquanto" 
 Exercicio10: Fluxograma para fazer a tabuada usando o "para"
+Exercicio11: Fluxograma para calcular o expoente
+
 
