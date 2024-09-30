@@ -7,3 +7,6 @@ Exercicio5: Algoritimo para saber se é menor ou maior de idade e respostas dife
 Exercicio6: Algoritimo para saber nome, idade, localidade e genero e com a reposta " Caro/a Sr/a é menor/maior de idade e mora em... "
 Exercicio7: Algoritimo para dizer qual o maior e o menor número dentre três números
 Exercicio8: Algoritimo para falar fazer a tabuada usando "faça" (faça enquanto)
+Exercicio9: Fluxograma para fazer a tabuada usando o "enquanto" 
+Exercicio10: Fluxograma para fazer a tabuada usando o "para"
+
