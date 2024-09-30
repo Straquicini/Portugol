@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="14642"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-30 04:49:53 "/>
+        <attribute name="created" value="MTQ2NDI7QVVESU9WSVNVQUlTXzA4OzIwMjQtMDktMzA7IjA0OjIxOjA5ICI7MjU2NQ=="/>
+        <attribute name="edited" value="MTQ2NDI7QVVESU9WSVNVQUlTXzA4OzIwMjQtMDktMzA7IjA0OjQ5OjUzICI7NjsyNjg3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="base, exp, i, resultado" type="Integer" array="False" size=""/>
+            <assign variable="resultado" expression="1"/>
+            <assign variable="base" expression="3"/>
+            <assign variable="exp" expression="3"/>
+            <for variable="i" start="exp" end="1" direction="inc" step="1">
+                <assign variable="resultado" expression="base*resultado"/>
+            </for>
+            <output expression="&quot; O resultado de &quot; &amp; base &amp; &quot;^&quot; &amp; exp &amp; &quot; = &quot; &amp; resultado" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
