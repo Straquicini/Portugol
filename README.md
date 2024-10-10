@@ -12,5 +12,6 @@ Exercicio10: Fluxograma para fazer a tabuada usando o "para"
 Exercicio11: Fluxograma para calcular o expoente
 Exercicio14: Algoritimo para falar menu principal  e somar, subtrair, multiplicar e dividir
 Exercicio15: Algoritimo igual ao exercicio14 mas utilizando o "faça enquanto" para repitir o menu principal enquanto o utilizador não escrever 0
+Exercicio20: Algoritimo usando os vectores com pra e constantes
 
 
